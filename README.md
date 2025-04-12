@@ -18,9 +18,10 @@ EAR (Eye Aspect Ratio) and MAR (Mouth Aspect Ratio) values are plotted 📊 to p
 **Alarm Sound:**
 When a certain threshold for EAR or MAR is met, an alarm sound 🔔 is triggered to alert the driver.
 
-**Dataset**
-The dataset used for training and testing the system can be found at the following link:
-🔗 Yawn & Eye Dataset - Kaggle
+## Dataset
+The dataset used for training and testing the system can be found at the following link:  
+🔗 [Yawn & Eye Dataset - Kaggle](https://www.kaggle.com/datasets/xyz/yawn-eye-dataset)
+
 
 ## How It Works
 **Feature Extraction:**
